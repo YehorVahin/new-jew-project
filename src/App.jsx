@@ -11,51 +11,43 @@ class App extends React.Component {
       items: [
         {
           id: 1,
-          title: "Ring",
-          img: 'ring.png',
+          title: "Chair",
+          img: 'chair-grey.jpeg',
           desc: 'Lorem ipsum dolor sit amet, consetetur adipisicing',
           category: 'rings',
-          price: '20000'
+          price: '20000 UAH'
         },
         {
           id: 2,
-          title: "Ring",
-          img: 'ring.png',
+          title: "Chair",
+          img: 'chair-white.jpeg',
           desc: 'Lorem ipsum dolor sit amet, consetetur adipisicing',
           category: 'rings',
-          price: '21000'
+          price: '21000 UAH'
         },
         {
           id: 3,
-          title: "Ring",
-          img: 'ring.png',
+          title: "Sofa",
+          img: 'sofa.jpeg',
           desc: 'Lorem ipsum dolor sit amet, consetetur adipisicing',
           category: 'rings',
-          price: '22000'
+          price: '22000 UAH'
         },
         {
           id: 4,
-          title: "Ring",
-          img: 'ring.png',
+          title: "Table",
+          img: 'table.webp',
           desc: 'Lorem ipsum dolor sit amet, consetetur adipisicing',
           category: 'rings',
-          price: '23000'
+          price: '23000 UAH'
         },
         {
           id: 5,
-          title: "Ring",
-          img: 'ring.png',
+          title: "Wall-lite",
+          img: 'wall-light.jpeg',
           desc: 'Lorem ipsum dolor sit amet, consetetur adipisicing',
           category: 'rings',
-          price: '24000'
-        },
-        {
-          id: 6,
-          title: "Ring",
-          img: 'ring.png',
-          desc: 'Lorem ipsum dolor sit amet, consetetur adipisicing',
-          category: 'rings',
-          price: '25000'
+          price: '24000 UAH'
         },
       ]
     }
